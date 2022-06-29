@@ -10,8 +10,9 @@ const Home = () => {
         <AddClientModal />
         <AddProjectModal />
       </div>
+      <h2>Projects</h2>
       <Projects />
-      <hr />
+      <h2>Our Clients</h2>
       <Clients />
     </>
   );
